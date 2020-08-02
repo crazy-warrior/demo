@@ -5,8 +5,8 @@
       "title": "Red Jacket",
       "images": [
         {
-          "url": "someUrl",
-          "thumbnailUrl": "someOtherUrl"
+          "url": "https://picsum.photos/200/300",
+          "thumbnailUrl": "https://picsum.photos/200/300"
         }
       ],
       "price": 100,
@@ -22,8 +22,8 @@
       "title": "Gray Couch In Great Condition",
       "images": [
         {
-          "url": "someUrl",
-          "thumbnailUrl": "someOtherUrl"
+          "url": "https://picsum.photos/200/300",
+          "thumbnailUrl": "https://picsum.photos/200/300"
         }
       ],
       "price": 300,
